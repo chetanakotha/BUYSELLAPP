@@ -1,2 +1,15 @@
-# BUYSELLAPP
-Connect with your local community through our intuitive buy-sell app. Discover treasures, negotiate deals, and build trust as you exchange goods and services with your neighbors, all in one convenient platform.
+# Expo Router Example
+
+Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+
+## 🚀 How to use
+
+```sh
+npx create-react-native-app -t with-router
+```
+
+## 📝 Notes
+
+- [Expo Router: Docs](https://expo.github.io/router)
+- [Expo Router: Repo](https://github.com/expo/router)
+- [Request for Comments](https://github.com/expo/router/discussions/1)
